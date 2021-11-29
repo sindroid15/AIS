@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIS", "AIS.csproj", "{D26CE9A1-91F8-4C27-9A05-413928854583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIS_DataAccessLayer", "..\AIS_DataAccessLayer\AIS_DataAccessLayer.csproj", "{B58C37D6-206F-44CE-BE7A-F3112427FB89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26CE9A1-91F8-4C27-9A05-413928854583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26CE9A1-91F8-4C27-9A05-413928854583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26CE9A1-91F8-4C27-9A05-413928854583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26CE9A1-91F8-4C27-9A05-413928854583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58C37D6-206F-44CE-BE7A-F3112427FB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58C37D6-206F-44CE-BE7A-F3112427FB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58C37D6-206F-44CE-BE7A-F3112427FB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58C37D6-206F-44CE-BE7A-F3112427FB89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86BE5141-281C-4AF2-A8FA-8D8FA9C3B053}
+	EndGlobalSection
+EndGlobal
